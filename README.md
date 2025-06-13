@@ -54,7 +54,7 @@ Visualization:
 ●	Top 5 Gainers and Losers by Month: Create a set of 12 bar charts for each month showing the top 5 gainers and losers based on percentage return.
 
 
-Project Deliverables:
+Project Deliverables attached here with:
 1.	SQL Database: Contains clean and processed data.
 2.	Python Scripts: For data cleaning, analysis, and database interaction.
 3.	Power BI Dashboard: Visualizations for stock performance.
